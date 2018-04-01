@@ -1,0 +1,29 @@
+{
+  "name": "ffmpeg-extract-audio",
+  "version": "1.0.0",
+  "description": "Extracts an audio stream from a media file.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/ffmpeg-extract-audio",
+  "author": "Travis Fischer <travis@automagical.ai>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava -v && standard"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "keywords": [
+    "ffmpeg",
+    "fluent-ffmpeg"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "ffmpeg-probe": "^1.0.1",
+    "promisepipe": "2.1.1",
+    "standard": "^11.0.0",
+    "tempy": "^0.2.1"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
