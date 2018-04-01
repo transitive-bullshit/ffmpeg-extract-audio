@@ -49,7 +49,7 @@ Type: `String`
 
 Audio container format to use.
 
-Note: you may either specify `output` or `format`. If `format` is not specified, it will be inferred from the `output` file extension. If no `format` or `output` is specified, an the result will default to an `mp3` stream.
+Note: you may either specify `output` or `format`. If `format` is not specified, it will be inferred from the `output` file extension. If no `format` or `output` file is specified, the result will default to an `mp3` stream.
 
 ##### channel
 
