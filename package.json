@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-extract-audio",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Extracts an audio stream from a media file.",
   "main": "index.js",
   "repository": "transitive-bullshit/ffmpeg-extract-audio",
