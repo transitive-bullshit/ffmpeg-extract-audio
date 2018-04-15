@@ -92,6 +92,7 @@ Optional function to log the underlying ffmpeg command. You may, for example, us
 ## Related
 
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+- [awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - A curated list of awesome ffmpeg resources with a focus on JavaScript.
 
 ## License
 
