@@ -97,3 +97,5 @@ Optional function to log the underlying ffmpeg command. You may, for example, us
 ## License
 
 MIT © [Travis Fischer](https://github.com/transitive-bullshit)
+
+Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
